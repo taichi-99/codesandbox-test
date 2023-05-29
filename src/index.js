@@ -156,7 +156,7 @@
 /**（配列を処理する関数）
  *　　 mapやfilter　　を使った配列の処理
  */
-const nameArr = ["多賀", "多だ", "たいち"];
+//const nameArr = ["多賀", "多だ", "たいち"];
 // for (let index = 0; index < nameArr.length; index++) {
 //   console.log(nameArr[index]);
 // }
